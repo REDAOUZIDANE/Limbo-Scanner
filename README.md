@@ -47,5 +47,4 @@ source myenv/bin/activate
 pip install -r requirements.txt
 
 -------------------------------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/d60aefc8-99eb-45e2-a545-259b9251aed1)
-add open API key
+
