@@ -26,3 +26,7 @@ python3-tk  # Install Tkinter for GUI support in Linux
 
 # For CLI (Curses-based)
 libncurses5-dev libncursesw5-dev  # Install ncurses for Curses-based CLI
+requests
+openai
+beautifulsoup4
+tkinter
