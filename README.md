@@ -27,3 +27,15 @@ cd  cd Limbo-Scanner
 pip install -r requirements.txt
 
 python3 limbo_scanner.py
+->debuging
+# Install virtualenv if it's not already installed
+sudo apt install python3-venv
+
+# Create a virtual environment in a directory of your choice
+python3 -m venv myenv
+
+# Activate the virtual environment
+source myenv/bin/activate
+
+# Install the required packages
+pip install -r requirements.txt
