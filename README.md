@@ -16,7 +16,8 @@ The scanner fetches payloads from **GitHub**, integrates with **Tor** for anonym
 - **JavaScript Vulnerability Scanning:** Scans JS files for dangerous functions like **eval** and **document.cookie**.
 
 ---
-
+![image](https://github.com/user-attachments/assets/d60aefc8-99eb-45e2-a545-259b9251aed1)
+add open API key
 ## **Installation** 🔧
 
 ### 1. Clone the Repository
@@ -44,6 +45,7 @@ source myenv/bin/activate
 
 # Install the required packages
 pip install -r requirements.txt
+
 -------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/d60aefc8-99eb-45e2-a545-259b9251aed1)
 add open API key
