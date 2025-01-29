@@ -22,10 +22,7 @@ SQLAlchemy==2.0.3
 paramiko==2.8.1
 
 # For GUI (Tkinter-based)
-tk==0.1.0
+python3-tk  # Install Tkinter for GUI support in Linux
 
 # For CLI (Curses-based)
-curses==2.2.1
-
-# For scanning JavaScript files and headers
-pyjsparser==2.7.0
+libncurses5-dev libncursesw5-dev  # Install ncurses for Curses-based CLI
