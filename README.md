@@ -23,7 +23,7 @@ The scanner fetches payloads from **GitHub**, integrates with **Tor** for anonym
 
 ```bash
 git clone https://github.com/REDAOUZIDANE/Limbo-Scanner
-cd limbo_scanner
+cd  cd Limbo-Scanner
 pip install -r requirements.txt
 
 python3 limbo_scanner.py
