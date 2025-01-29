@@ -1,0 +1,31 @@
+# Core dependencies
+requests==2.28.1
+beautifulsoup4==4.11.1
+lxml==4.9.1
+flask==2.1.2
+flask-cors==3.1.1
+flask-login==0.5.0
+
+# For AI payload mutation
+openai==0.27.0
+torch==1.12.1
+transformers==4.23.1
+
+# For anonymous scanning via Tor
+requests[socks]==2.28.1
+stem==1.8.0
+pysocks==1.7.1
+
+# Web vulnerability scanning
+w3af==2.0.0
+SQLAlchemy==2.0.3
+paramiko==2.8.1
+
+# For GUI (Tkinter-based)
+tk==0.1.0
+
+# For CLI (Curses-based)
+curses==2.2.1
+
+# For scanning JavaScript files and headers
+pyjsparser==2.7.0
