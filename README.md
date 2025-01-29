@@ -25,6 +25,11 @@ The scanner fetches payloads from **GitHub**, integrates with **Tor** for anonym
 git clone https://github.com/REDAOUZIDANE/Limbo-Scanner
 cd Limbo-Scanner
 cd limbo_scanner
+sudo apt-get install python3-tk
+sudo apt-get install libncurses5-dev libncursesw5-dev
+sudo apt-get install python3-pip
+pip install --upgrade requests beautifulsoup4 lxml flask flask-cors flask-login openai torch transformers stem pysocks w3af SQLAlchemy paramiko pyjsparser
+
 pip install -r requirements.txt
 
 python limbo_scanner.py
