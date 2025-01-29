@@ -26,7 +26,7 @@ git clone https://github.com/REDAOUZIDANE/Limbo-Scanner
 cd  cd Limbo-Scanner
 pip install -r requirements.txt
 
-python3 limbo_scanner.py
+python limbo_scanner.py
 ->debuging
 # Install virtualenv if it's not already installed
 sudo apt install python3-venv
